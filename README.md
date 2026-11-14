@@ -24,3 +24,4 @@ This is an independent concept/prototype, not an official AdBanana website. Prod
 - Replace simulated generation with an authorized AdBanana API endpoint.
 - Add approved product photography and verified case studies.
 - Connect the demo/contact flow to a CRM or booking form.
+"# adbanana-studio" 
